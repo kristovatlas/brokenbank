@@ -1,5 +1,3 @@
-// language: go
-
 package bank
 
 import (
