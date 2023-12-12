@@ -1,3 +1,5 @@
+// language: go
+
 // To compile the package and run the tests, we can run the following 
 // command from the directory containing this file:
 // gno test -verbose ./

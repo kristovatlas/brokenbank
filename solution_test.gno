@@ -1,3 +1,5 @@
+// language: go
+
 /*
  * This file demonstrates the solution to the auditing challenge. Do not read until you're ready 
  * to reveal the soluion.
